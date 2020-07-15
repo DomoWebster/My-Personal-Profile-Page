@@ -58,7 +58,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color:#7ac143;
 }
 
 header {
@@ -75,12 +75,12 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 50% 0;
   border: 3px solid white;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(360deg);
+  transform: scale(1.14) rotate(360deg);
 }
 .tag {
   background-color: #efefef;
@@ -104,6 +104,18 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
+.exp-card {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 80%;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+
 .card:hover {
   border-color: #7ac143;
 }
