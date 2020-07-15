@@ -11,6 +11,11 @@ body {
   color: #222;
   background: #f7f5f0;
 }
+
+h2{
+
+  color:#0399ff;
+}
 /* Link Styles */
 
 a {
@@ -18,7 +23,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #7ac143;
 }
 
 /* Section Styles */
@@ -87,7 +92,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color:#7ac143;
 }
 .card {
   margin: 30px;
@@ -100,7 +105,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #7ac143;
 }
 
 ul.skills {
@@ -111,7 +116,7 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: #7ac143;
   color: white;
   padding: 5px 10px;
   margin: 2px;
