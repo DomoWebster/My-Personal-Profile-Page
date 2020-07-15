@@ -58,7 +58,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/baltimore.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -224,5 +224,5 @@ p span::before{
 @keyframes profile {
   0% { content: "coding like a champ!"}
   50% { content: "mastering javascript!"}
-  100% { content: "drinking coffee!"}
+  100% { content: "drinking hot coffee!"}
 }
