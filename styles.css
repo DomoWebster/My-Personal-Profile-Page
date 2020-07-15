@@ -243,3 +243,9 @@ p span::before{
   50% { content: "mastering javascript!"}
   100% { content: "drinking hot coffee!"}
 }
+
+.port-img{
+  height: 250px;
+  width: 300px;
+  padding: 5px;
+}
